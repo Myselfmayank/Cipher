@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cipher</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="remaining_attempts_5">Remaining Attempts: 5</string>
+    <string name="register">Register</string>
+    <string name="a_product_by_mayank_raj">A Product by Mayank Raj</string>
+    <string name="your_text_goes_here">Your text goes here.....</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+</resources>
